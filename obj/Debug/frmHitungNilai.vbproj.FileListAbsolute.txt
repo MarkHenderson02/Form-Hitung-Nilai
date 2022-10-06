@@ -1,0 +1,12 @@
+G:\52020007\Pemg Visual\Modul 2\frmHitungNilai\bin\Debug\frmHitungNilai.exe.config
+G:\52020007\Pemg Visual\Modul 2\frmHitungNilai\bin\Debug\frmHitungNilai.exe
+G:\52020007\Pemg Visual\Modul 2\frmHitungNilai\bin\Debug\frmHitungNilai.pdb
+G:\52020007\Pemg Visual\Modul 2\frmHitungNilai\bin\Debug\frmHitungNilai.xml
+G:\52020007\Pemg Visual\Modul 2\frmHitungNilai\obj\Debug\frmHitungNilai.vbproj.AssemblyReference.cache
+G:\52020007\Pemg Visual\Modul 2\frmHitungNilai\obj\Debug\frmHitungNilai.Resources.resources
+G:\52020007\Pemg Visual\Modul 2\frmHitungNilai\obj\Debug\frmHitungNilai.vbproj.GenerateResource.cache
+G:\52020007\Pemg Visual\Modul 2\frmHitungNilai\obj\Debug\frmHitungNilai.vbproj.CoreCompileInputs.cache
+G:\52020007\Pemg Visual\Modul 2\frmHitungNilai\obj\Debug\frmHitungNilai.exe
+G:\52020007\Pemg Visual\Modul 2\frmHitungNilai\obj\Debug\frmHitungNilai.xml
+G:\52020007\Pemg Visual\Modul 2\frmHitungNilai\obj\Debug\frmHitungNilai.pdb
+G:\52020007\Pemg Visual\Modul 2\frmHitungNilai\obj\Debug\frmHitungNilai.frmHitungNilai.resources
